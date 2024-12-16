@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Inter:opsz,wght@14..32,100..900&display=swap');
+.color{
+   background-color: azure;
+}
+.bx-credit-card-alt{
+    font-size: 90px;
+}
+.bx-package{
+    font-size: 90px;
+}
+.bx-shield{
+    font-size: 90px;
+}
+.bxl-youtube{
+  font-size: 20px;
+}
+h8{
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(204, 204, 204);
+}
