@@ -1,0 +1,14 @@
+.bxl-google{
+    font-size: 40px;
+}
+.form-group{
+    user-select: none;
+    display: block;
+    background: #F4F6FF;
+    padding: 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    border: 2px solid transparent;
+    box-shadow: 0 10px 10px rgba(0,0, 0, 0.20);
+    transition: 0.2s ease;
+}
